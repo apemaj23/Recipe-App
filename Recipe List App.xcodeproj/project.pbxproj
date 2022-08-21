@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C11967228B2D2420007EA18 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C11967128B2D2420007EA18 /* RecipeTabView.swift */; };
 		9C2A89AA28A5A219001321DF /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2A89A928A5A219001321DF /* DataService.swift */; };
 		9C2A89C628A6EB96001321DF /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2A89C528A6EB96001321DF /* RecipeDetailView.swift */; };
 		9CBC723828A59A9600B7CFCB /* Recipe_List_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CBC723728A59A9600B7CFCB /* Recipe_List_App.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C11967128B2D2420007EA18 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		9C2A89A928A5A219001321DF /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		9C2A89C528A6EB96001321DF /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		9CBC723428A59A9600B7CFCB /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -84,6 +86,7 @@
 		9CBC724528A59ADF00B7CFCB /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				9C11967128B2D2420007EA18 /* RecipeTabView.swift */,
 				9CBC723928A59A9600B7CFCB /* RecipeListView.swift */,
 				9C2A89C528A6EB96001321DF /* RecipeDetailView.swift */,
 			);
@@ -199,6 +202,7 @@
 				9CBC723A28A59A9600B7CFCB /* RecipeListView.swift in Sources */,
 				9CBC723828A59A9600B7CFCB /* Recipe_List_App.swift in Sources */,
 				9C2A89AA28A5A219001321DF /* DataService.swift in Sources */,
+				9C11967228B2D2420007EA18 /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

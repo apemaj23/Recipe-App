@@ -26,7 +26,7 @@ struct RecipeListView: View {
                 })
                 
                
-            }.navigationBarTitle("All Recipes").padding()
+            }.navigationBarTitle("All Recipes")
         }
     }
 }
